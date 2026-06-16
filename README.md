@@ -10,4 +10,4 @@
 | **06.7.2026** | Lecture 4 + Lab 4 | Automated testing, Selenium | Automated UI tests |
 | **07.7.2026** | Lecture 5 + Lab 5 | Test tool selection, Robot Framework | Robot Framework tests, tool evaluation decision matrix |
 | **09.7.2026** | Lab 6 + Consultations | Postman/API testing, project finalization | Postman collection, final report, presentation |
-| **10 Jul 2026** | Final Exam | Morning session dedicated to project defenses only | Project defense evaluation as the final exam |
+| **10.7.2026** | Final Exam | Morning session dedicated to project defenses only | Project defense evaluation as the final exam |
